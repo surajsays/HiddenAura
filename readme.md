@@ -62,19 +62,12 @@ How It Works
 
 Contributing
 
-This is a personal learning project by surajsays under the repository HiddenAura. Contributions are not expected, but if you'd like to suggest improvements, feel free to fork the repository and open a pull request. For major changes, open an issue first to discuss your ideas.
-License
+This is a personal learning project by surajsays under the repository HiddenAura. Contributions are not expected, but if you'd like to suggest improvements, feel free to fork the repository and open a pull request. For major changes, open an issue first to discuss your ideas.You are free to use, modify, and distribute this project, provided that the license notice and copyright are retained.
 
 
-You are free to use, modify, and distribute this project, provided that the license notice and copyright are retained.
+  
 
-For more details, refer to the LICENSE file in this repository.
-Future Plans
 
-    Add community features like group challenges.
-    Support for customizable trees and visual themes.
-    Advanced analytics and insights into user progress.
-    Integrate Tauri for enhanced desktop support.
 
 Contact
 
