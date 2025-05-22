@@ -96,4 +96,4 @@ You are free to use, modify, and distribute this project, provided that the lice
 
 ## Contact
 
-For queries or suggestions, reach  instagram: surajsays.me.
+For queries or suggestions, reach  instagram: io.suraj.
